@@ -33,7 +33,7 @@ Data umut dihitung berdasarkan tahun saat ini dan tahun lahir yang diinputkan pe
 Dengan proses ini, data yang diinputkan dalam form dapat diteruskan dan ditampilkan dihalaman lain menggunakan flutter.
 
 ## Screenshot
-![Lampiran Form](tampilan form.png)
-![Lampiran Hasil](tampilan hasil.png)
+![Lampiran Form](tampilan_form.png)
+![Lampiran Hasil](tampilan_hasil.png)
 
 
